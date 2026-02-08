@@ -5,4 +5,5 @@ The software environment was carefully configured to ensure mutual compatibility
 - cuDNN SDK: 9.3
 - TensorFlow: 2.19
 - Python: 3.9
+
 All necessary tools and libraries were installed within the WSL environment to leverage native CUDA support and maximize GPU acceleration.
